@@ -3,7 +3,7 @@
     padding: 0;
 }
 #mbody{
-    background-image: url('/body.jpg');
+    background-image: url('https://raw.githubusercontent.com/sunil-hash706/port-dd/main/body.jpg');
     width: 100%;
     height: 590px;
     position: fixed;
